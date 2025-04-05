@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itszeeshan" alt="itszeeshan" /></a> </p>
 
-- 🔭 I’m currently working on **Rebolet**
+- 🔭 I’m previously worked at **Rebolet** as a Senior Software Engineer.
 
 - 👯 I’m looking to collaborate on **Directus**
 
-- 📝 I regularly write articles on [https://medium.com/@zeesek](https://medium.com/@zeesek)
+- 📝 I regularly write articles on [Medium/@zeesek](https://medium.com/@zeesek)
 
 - 💬 Ask me about **Full Stack Web Development, Cyber Security**
 
