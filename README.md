@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itszeeshan" alt="itszeeshan" /></a> </p>
 
-- 📝 I regularly write articles on [Medium/@zeesek](https://medium.com/@zeesek)
+- 📝 I write articles on [Medium/@zeesek](https://medium.com/@zeesek)
 
-- 💬 Ask me about **Full Stack Web Development, Cyber Security**
+- 💬 Ask me about **Full Stack Development, Cyber Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
