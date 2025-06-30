@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itszeeshan" alt="itszeeshan" /></a> </p>
 
-- 🔭 I previously worked at **Rebolet** as a Senior Software Engineer.
-
-- 👯 I’m looking to collaborate on **Directus**
-
 - 📝 I regularly write articles on [Medium/@zeesek](https://medium.com/@zeesek)
 
 - 💬 Ask me about **Full Stack Web Development, Cyber Security**
